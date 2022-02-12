@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @coldrac
+- 👀 I’m interested in anything and everything about coding
+- 🌱 I’m currently learning Python
+- I've been coding since the mid 90s on and off and would like to get back into it again
